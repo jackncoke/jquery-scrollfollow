@@ -1,0 +1,18 @@
+{
+  "name": "jquery-scrollfollow",
+  "version": "0.4.0",
+  "main": "/jquery.scrollfollow.js",
+  "dependencies": {
+    "jquery": "~1.5.2",
+    "jquery.ui": "~1.5.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jackncoke/jquery-scrollfollow.git"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ]
+}
